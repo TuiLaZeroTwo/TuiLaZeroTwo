@@ -7,7 +7,9 @@
 
 - 📫 Reach me via **tlz (Discord)**
 
-- ⚡ Bad fact **I think I'm from VietNam**
+- ⚡ Youtuber And Developer
+
+- 😨 LiquidBounceMinus Dev
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
