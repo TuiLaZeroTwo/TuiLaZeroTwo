@@ -1,56 +1,19 @@
-### <div align="center">I'm TLZ, a youtuber</div>  
-  
-- 😋 Working at TuanSoCool Community
+<h1 align="center">Hi, I'm TLZ</h1>
+<h3 align="center">from Mars 🤡</h3>
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TuiLaZeroTwo&label=Profile%20views&color=0e75b6&style=flat" alt="tuilazerotwo" /> </p>
 
-</td><td valign="top" width="33%">
+- 🌱 I’m currently learning **Java, Kotlin**
 
+- 📫 Reach me via **tlz (Discord)**
 
+- ⚡ Bad fact **I think I'm from VietNam**
 
-</td><td valign="top" width="33%">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/tlzitsme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tuilazerotwo" height="30" width="40" /></a>
+<a href="https://discord.gg/bxb3Fy9B4U" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EcDs4dnVsx" height="30" width="40" /></a>
+</p>
 
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/TuiLaZeroTwo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@TLZItsMe" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TuiLaZeroTwo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=TuiLaZeroTwo&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a 
