@@ -7,7 +7,7 @@
 
 - 📫 Reach me via **tlz (Discord)**
 
-- ⚡ Youtuber And Developer
+- ⚡ Youtuber And Loser
 
 - 😨 LiquidBounceMinus Dev
 
