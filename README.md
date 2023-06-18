@@ -9,7 +9,7 @@
 
 - ⚡ Youtuber And Loser
 
-- 😨 LiquidBounceMinus Dev
+- 😨 LiquidBounceMinus Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
