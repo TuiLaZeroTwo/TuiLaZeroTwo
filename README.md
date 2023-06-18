@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm TLZ</h1>
 <h3 align="center">from Mars 🤡</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TuiLaZeroTwo&label=fan%20của%20tlz&color=0e75b6&style=flat" alt="tuilazerotwo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TuiLaZeroTwo&label=tlz's%20fan&color=0e75b6&style=flat" alt="tuilazerotwo" /> </p>
 
 - 🌱 I’m currently learning **Java, Kotlin**
 
