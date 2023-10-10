@@ -1,21 +1,31 @@
-<h1 align="center">Hi, I'm TLZ</h1>
-<h3 align="center">from Mars 🤡</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=5000&pause=1000&color=FFFFFF&background=1E42FF00&center=true&width=435&lines=TuiLaZeroTwo)](https://tuilazerotwo.xyz)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TuiLaZeroTwo&label=tlz's%20fan&color=0e75b6&style=flat" alt="tuilazerotwo" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&color=000500&background=1E42FF00&center=true&width=435&lines=Github.com%2FTuiLaZeroTwo)](https://tuilazerotwo.xyz)
 
-- 🌱 I’m currently learning **Java, Kotlin**
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-- 📫 Reach me via **tlz (Discord)**
 
-- ⚡ Youtuber And Loser
+> ### ⚙️ Favourite Languages: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=600&lines=js,;python,;html-css,;java,;kotlin,;)](https://tuilazerotwo.xyz)
 
-- 😨 LiquidBounceMinus Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/tlzitsme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tuilazerotwo" height="30" width="40" /></a>
-<a href="https://discord.gg/bxb3Fy9B4U" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EcDs4dnVsx" height="30" width="40" /></a>
-</p>
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a 
+
+> ### 👉 Skills: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&lines=Front+End;Back+End;Full+Stack+Developer;)](https://tuilazerotwo.xyz)
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+ > ### 🎈 Socials 
+ 
+   [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@TLZItsMe)
+   [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.your-website.com)
+   [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/J9wbQhGqpz) 
+ 
+ ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+  
+
+ <br><br>
+<p>👀 &nbsp;Visitors</p>
+ <br>
+<img align="left" src="https://profile-counter.glitch.me/TuiLaZeroTwo/count.svg" />
