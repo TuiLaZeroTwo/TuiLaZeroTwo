@@ -16,7 +16,7 @@
  ~> <strong>ls links</strong>
  Discord: <a rel=me href="https://discord.com/channels/@me/1369605270816292884">tuilazerotwo</a> (hhlong)
  Website: <a href="https://e-z.bio/tlz">e-z.bio/tlz</a> | <a href="https://tlz.world">tlz.world</a>
- Contact: tuilazerotwo@proton.me
+ Contact: business@tlz.world
 
  ~> <strong>nerdy tlz</strong>
 Login: tlz                             Name: tlz
